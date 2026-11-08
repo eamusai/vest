@@ -14,6 +14,8 @@ Further scenarios cover impact cushioning for horse riders and motorcyclists, fa
 
 [Harmful-water sensing](docs/water-quality-use-case.md) is another research ambition: identify specified bacteria, toxins, or contaminants and warn a wearer or caregiver. Immediate, broad detection by a vest is not established; general water measurements cannot certify water as safe. This does not change the child-approach priority.
 
+Three additional briefs explore [a child left in a hot car](docs/child-hot-car-use-case.md), [a dog left in a hot car](docs/dog-hot-car-use-case.md), and [horse-worn stress monitoring with calming interventions](docs/horse-calming-use-case.md). The hot-car cases retain emergency-service alerts as a goal, with separate sensing and response requirements for children and dogs. The horse case asks whether a suitable cue can reduce stress without adding risk; preventing spooks, bucking, or rider injury is unproven. None changes the child water-approach priority or establishes a working protective system.
+
 ## Read the drafts
 
 Start with the [highest-priority child warning case](docs/child-water-proximity-use-case.md), [visual overview](docs/overview.md), and [use-case catalog](docs/use-cases.md). The diagrams show research questions and proposed stages, not a completed device architecture. A separate [adult appearance concept](docs/appearance-concept.md) preserves the first exterior illustration; it is not a child design or CAD.
@@ -32,6 +34,9 @@ The child-warning review package now includes [proposed requirements and candida
 10. [Falls and impact cushioning, including the altitude stretch goal](docs/fall-impact-use-case.md)
 11. [Horse-to-vest warning and emergency dismount research](docs/horse-warning-use-case.md)
 12. [Harmful-water sensing and alerts](docs/water-quality-use-case.md)
+13. [Child hot-car detection and emergency alerts](docs/child-hot-car-use-case.md)
+14. [Dog hot-car detection and emergency alerts](docs/dog-hot-car-use-case.md)
+15. [Horse-worn stress monitoring and calming research](docs/horse-calming-use-case.md)
 
 The companion is an incomplete research mock-up, not an operational checklist or certification of readiness. Exact manufacturer requirements must be mapped and reviewed before participant testing. Follow the current instructions for the actual equipment; these drafts do not replace them.
 
@@ -41,4 +46,4 @@ The original research documents, forms, and conceptual diagrams are licensed und
 
 The aim is to invite useful review now and eventually hand tested, reproducible work to capable manufacturers and researchers. Manufacturer manuals and drawings are linked, not copied or relicensed. Future software and engineering design files will need explicitly scoped licensing when they exist.
 
-Useful feedback includes source corrections, missing prior work, clearly described usability problems, and review of proposed requirements. Distinguish observations from hypotheses and keep personal or participant information out of submissions. The [release review](docs/release-review.md) records the current publication-preparation status; the owner controls repository visibility.
+Useful feedback includes source corrections, missing prior work, clearly described usability problems, and review of proposed requirements. Distinguish observations from hypotheses and keep personal or participant information out of submissions. The [release review](docs/release-review.md) records publication checks and limitations; the owner controls repository visibility.

@@ -10,6 +10,7 @@ Review date: November 8, 2026. Prepared for sharing the current research documen
 - The README identifies early research, no fabricated prototype, no completed experiments, and no demonstrated safety benefit.
 - A use-case diagram and proposed research-stage diagram include text explanations and put child water-approach warning first. The adult study remains a secondary track.
 - The child-warning, water-quality, adult water, avalanche, impact, altitude, and horse-warning ideas retain their evidence limitations. Manual/source gaps remain visible; no document claims that a prototype makes a family lake visit safe.
+- Three additional briefs cover child hot-car alerts, dog hot-car alerts, and horse-worn stress monitoring with calming interventions. They preserve the user's intended outcomes while distinguishing detection, delivered alerts, actual emergency response, and intervention benefit. No thresholds, responder integration, or effective calming device are established. Child water-approach warning remains first.
 - The child-warning review package contains proposed requirements, failure scenarios, paper screens, and an evaluation plan. Numerical performance limits and expert review remain open. The static print-ready screens contain no scripts or connected monitoring.
 - A labeled AI-generated adult appearance illustration and its prompt preserve the earlier exterior concept. Its provenance and license scope are explicit; it is not CAD or a child garment.
 - The repository contains research Markdown, static paper-interface HTML/CSS, an appearance image, its prompt, and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
@@ -26,10 +27,10 @@ Both Mermaid diagrams were rendered and visually checked. Local document links a
 
 The child review package's seven simulated screens were checked at desktop and narrow-screen widths, with acknowledgment preserving unresolved warnings and faults. Static print layouts were checked. These are presentation and documentation checks; no child, sensing, or field-performance study was conducted.
 
-## Final owner action
+## Repository visibility
 
-The repository is private at preparation time. The connected account has write access; the owner has administrator access and will decide when to make it public. Review the history-retention limitation above, then use the repository's Settings → General → Danger Zone → Change repository visibility when ready.
+The repository was private when the initial release package was prepared. A later check on November 8, 2026, confirmed that it is now public. The owner controls visibility; adding the three new research briefs did not change access settings. The history-retention limitation above still applies.
 
 Public copies and forks may remain available even if the original is later made private. [GitHub visibility documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
 
-Before the switch, read the current README, both diagrams, and license notice. Outstanding scientific/manual questions do not prevent sharing them as clearly labeled research, but they do prevent presenting this as validated safety equipment.
+Keep the README, diagrams, and license notice aligned as research develops. Outstanding scientific/manual questions do not prevent sharing clearly labeled research, but they do prevent presenting it as validated safety equipment. Public documentation does not authorize experiments, animal interventions, emergency-service tests, or clinical claims.

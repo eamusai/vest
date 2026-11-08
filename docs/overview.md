@@ -7,17 +7,22 @@ November 8, 2026. These diagrams organize research, not the components of a test
 ## Research areas
 
 ```mermaid
-flowchart TD
+flowchart LR
     V["Vest research"]
     V --> C["Child water-approach warning<br/>HIGHEST PRIORITY"]
+    V --> K["Hot-car detection and alerts<br/>Emergency-response research"]
+    K --> KC["Child case<br/>Pediatric requirements"]
+    K --> KD["Dog case<br/>Separate canine requirements"]
     V --> W["Adult water safety<br/>Earlier dry usability project"]
     V --> T["Harmful-water alerts<br/>Sensing research"]
     V --> A["Avalanche<br/>Breathing space and rescue"]
     V --> I["Impact cushioning"]
-    V --> H["Horse-to-vest warning<br/>Prediction research"]
+    V --> H["Horse sensing research"]
+    H --> HW["Horse-to-rider warning<br/>Prediction research"]
+    H --> HC["Horse stress and calming<br/>Intervention research"]
     I --> R["Horse riding and motorcycles<br/>Separate impact scenarios"]
     I --> F["Falls from altitude<br/>Long-term stretch goal"]
-    H -.-> D["Emergency dismount assistance<br/>Unvalidated stretch concept"]
+    HW -.-> D["Emergency dismount assistance<br/>Unvalidated stretch concept"]
     I -.-> D
     classDef current fill:#e8f1fa,stroke:#285d85,color:#172e40;
     classDef stretch fill:#fff3df,stroke:#8a641e,color:#49340f;
@@ -28,6 +33,8 @@ flowchart TD
 The highest priority is [child water-approach warning](child-water-proximity-use-case.md): investigate a timely caregiver alert before a young child reaches a water hazard. Its requirements and feasibility work take precedence. The earlier adult [water preparation companion](prototype.md) and proposed dry study remain secondary. Other branches are [avalanche research](avalanche-use-case.md), [impact protection](fall-impact-use-case.md), and [horse-to-vest warning](horse-warning-use-case.md). Falls from altitude remain an explicit long-term goal. The dashed connections indicate that emergency dismount assistance depends on both warning/response research and impact research; they do not imply that a warning makes jumping safe.
 
 The catalog also retains [harmful-water sensing](water-quality-use-case.md) and other rapid falls for later definition. Water-quality warnings are separate from child approach warnings; no wearable contaminant detector is established. None of these branches establishes a universal vest, common trigger, or shared safety certification.
+
+The [child hot-car](child-hot-car-use-case.md) and [dog hot-car](dog-hot-car-use-case.md) branches investigate possible unattended occupancy, heat risk, alerts, and supported emergency escalation. Their physiological and wearability requirements are separate. The [horse calming](horse-calming-use-case.md) branch investigates intervention on the horse, distinct from warning the rider. No automatic dispatch service or effective calming device exists in this project; prevention of spooks or bucking is an unvalidated goal.
 
 The separate [adult appearance concept](appearance-concept.md) explores an exterior silhouette. It does not specify the child-warning wearable or any validated hardware.
 

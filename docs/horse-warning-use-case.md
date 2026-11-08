@@ -1,6 +1,6 @@
 # Horse-to-vest warning and emergency dismount research
 
-[Home](../README.md) · [Use-case catalog](use-cases.md) · [Rider impact protection](fall-impact-use-case.md)
+[Home](../README.md) · [Use-case catalog](use-cases.md) · [Rider impact protection](fall-impact-use-case.md) · [Horse calming research](horse-calming-use-case.md)
 
 Research brief, version 0.1 — source review November 8, 2026. No device, predictive model, animal study, or rider trial has been developed or conducted.
 
@@ -9,6 +9,8 @@ Research brief, version 0.1 — source review November 8, 2026. No device, predi
 A horse wears sensors that monitor the horse, with a connection to the rider's vest. The goal is to recognize an impending spook early enough to warn the rider before control is lost. The user also imagines an emergency dismount supported by vest inflation, including a jump from the horse.
 
 Preserve that complete idea as a research ambition. It contains three distinct claims that need evidence: useful prediction before the reaction; reliable, timely delivery of a warning; and a response that improves outcomes. Neither enough time to dismount nor safe landing with an airbag is established. The draft does not prescribe immediate dismounting or jumping in response to an alert.
+
+The later [horse-worn stress monitoring and calming brief](horse-calming-use-case.md) explores a separate intervention on the horse, including candidate acoustic or tactile cues. A rider warning and a calming intervention are different functions; evidence for one does not validate the other. Both retain passive observation as the first proposed research mode, and neither selects an automatic rider-airbag trigger.
 
 ## What the evidence supports so far
 

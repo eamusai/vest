@@ -46,10 +46,22 @@ Use the [catalog](use-cases.md) to retain the broader set of ideas. Compare exis
 
 For the [horse-to-vest warning](horse-warning-use-case.md), first establish whether a signal reliably precedes a spook with usable lead time. Begin with literature, expert review, and an observational-study proposal. Study alert interpretation away from horses before considering live warnings. Any emergency dismount concept needs separate evidence that the response helps; no deliberate jumps, induced spooks, or human impact trials are proposed.
 
+## Child and dog hot-car research tracks
+
+Develop the [child](child-hot-car-use-case.md) and [dog](dog-hot-car-use-case.md) cases separately. Compare wearable, vehicle occupancy, and combined approaches; address missing wearables and phones left in the car. Begin with possible unattended occupancy rather than waiting for heat illness. Pediatric and canine fit, measurements, and operating criteria need their own specialist review.
+
+For each case, define a supported local emergency-response arrangement, including responsibility, location uncertainty, escalation, cancellation, and communication failure. A sent alert or caregiver acknowledgment is not confirmed dispatch or physical rescue. No emergency integration exists, no contacts have been made, and no live emergency calls are proposed. First use paper scenarios, simulated recipients, and a separately reviewed inert-fixture bench plan; never leave a child or animal in a vehicle or expose them to heat for testing. These tracks do not displace child water-approach warning.
+
+## Horse stress and calming research track
+
+Use the [horse calming brief](horse-calming-use-case.md) to distinguish stress estimation, spook prediction, intervention effects, and rider protection. Review full methods behind the preliminary music and touch findings with equine veterinary and behavior expertise. Compare candidate cues with appropriate controls; do not assume human touch or resting stable results transfer to an actuator during riding.
+
+Prepare a passive observational proposal and bench-test output limits, independent stop controls, lost links, wrong pairing, and actuator-induced sensing artifacts on inert fixtures. Only separately authorized, welfare-reviewed work could consider a familiar handler-controlled cue in comfortable, unmounted conditions. No automatic calming, deliberate fright, induced bucking, or mounted intervention trial is ready to implement.
+
 ## Harmful-water sensing track
 
 Use the [water-quality brief](water-quality-use-case.md) to select one initial hazard and setting with relevant specialists. Compare direct sensing, proxy measurements, and official advisories without treating them as equivalent. Establish detection delay, validity, reference methods, and false-negative risks before hardware selection. Begin with published data and paper alerts; no contaminated-water exposure or swimming trial is proposed. This track does not displace the child-approach priority.
 
-## Before public sharing or manufacturer handoff
+## Public sharing and manufacturer handoff
 
-The original documentation and diagrams now use [CC BY 4.0](../LICENSING.md). See the [visual overview](overview.md) and [release review](release-review.md) for the prepared public-facing material and outstanding owner action. Preserve manufacturer links rather than copying manuals or drawings. Public sharing should describe the current work as early research; later manufacturer handoff needs documented tests, failures, uncertainties, revision history, and reproducibility requirements. The owner controls the final visibility change.
+The original documentation and diagrams use [CC BY 4.0](../LICENSING.md). See the [visual overview](overview.md) and [release review](release-review.md) for public-facing material and remaining limitations. The repository is now public; publication does not validate the concepts. Preserve manufacturer links rather than copying manuals or drawings. Later manufacturer handoff needs documented tests, failures, uncertainties, revision history, and reproducibility requirements. The owner controls repository visibility.

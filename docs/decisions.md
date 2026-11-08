@@ -67,3 +67,13 @@ The user requested sensors on the vest to recognize harmful bacteria or other wa
 ## Child research specification
 
 The user asked to proceed with next steps and fully develop the child case. The review package now traces proposed requirements to failure scenarios, distinguishes warning delivery from caregiver response, preserves unresolved warnings through acknowledgment and lost updates, and identifies open performance parameters. A static paper interface and a simulated conversation preview support wording review only. No detector, trajectory simulator, monitoring service, hardware, or human study has been implemented or conducted. Specialist review is the next evidence gate.
+
+## Added use cases: child and dog hot-car alerts; horse calming
+
+On November 8, 2026, the user requested three further scenarios: detecting a child left in a hot car and alerting emergency services; doing the same for a dog; and a horse-worn vest connected to monitoring that detects stress and uses suitable modalities to calm the horse, aiming to prevent spooking or bucking off the rider.
+
+The [child hot-car brief](child-hot-car-use-case.md) and [dog hot-car brief](dog-hot-car-use-case.md) preserve emergency escalation as an intended outcome while separating occupancy, supervision uncertainty, heat sensing, communications, responder acceptance, and physical resolution. They require separate pediatric and veterinary evidence; neither selects thresholds or claims an operating emergency integration. Initial research uses paper scenarios and inert surrogates, never unattended children or animals in vehicles.
+
+The [horse calming brief](horse-calming-use-case.md) distinguishes intervention on the horse from the existing rider-warning case. Acoustic, tactile, and handler-mediated options remain hypotheses. Passive observation precedes any separately reviewed intervention; neither sensor changes nor apparent quietness alone establish welfare benefit. No mounted intervention, induced spook, automatic airbag trigger, or claim of preventing bucking is approved.
+
+Child water-approach warning remains the highest priority. These additions expand the catalog without selecting a universal garment or authorizing purchases, expert outreach, recruitment, experiments, or emergency calls. Repository visibility was checked and is now public; this update changes documentation, not access settings.
