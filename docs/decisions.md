@@ -15,8 +15,8 @@ Decision record — November 8, 2026. These choices come from the project conver
 
 ## Priority progression: child water-approach warning
 
-1. **Now:** specify the young-child and caregiver scenario, a known hazard boundary, alert meaning, uncertainty, and fault behavior. Compare existing approaches and record gaps with relevant specialists.
-2. **First deliverable:** requirements and failure scenarios plus a paper caregiver-alert mock-up. Define measurable acceptance criteria before collecting data; no distance or response-time guarantee is assumed.
+1. **Now:** review the draft young-child and caregiver requirements, fictional fixed-shoreline model, candidate approaches, and unresolved parameters with relevant specialists.
+2. **First deliverable drafted:** [16 proposed requirements](child-warning-requirements.md), [17 failure scenarios](child-warning-failure-scenarios.md), [seven paper screens](child-caregiver-alert-mockup.md), and an [evaluation plan](child-warning-evaluation-plan.md). Define numerical acceptance criteria before performance work; no distance or response-time guarantee is assumed.
 3. **If justified:** separately plan synthetic-path and dry surrogate evaluation away from water, using inert tags or adults rather than children. Evaluate missed/late alerts, nuisance alerts, communication failures, and caregiver understanding.
 4. **Before pediatric or field work:** obtain specialist review of fit, wearability, foreseeable misuse, privacy, supervision effects, and the proposed study. The current brief authorizes no recruitment or child exposure.
 5. **Eventual handoff:** reproducible work with bounded evidence, failure modes, and limitations. Saving a child's life remains the aim, not a demonstrated outcome.
@@ -63,3 +63,7 @@ The user also approved an initial [adult appearance illustration](appearance-con
 ## Added use case: harmful-water alerts
 
 The user requested sensors on the vest to recognize harmful bacteria or other water hazards and promptly warn the wearer to leave the water. The [water-quality brief](water-quality-use-case.md) preserves direct sensing as a research ambition while separating target-specific detection, indirect measurements, and advisory information. No instant broad-spectrum detector is established. Child water-approach warning remains the highest priority, and no proposed system currently establishes that a lake visit is safe.
+
+## Child research specification
+
+The user asked to proceed with next steps and fully develop the child case. The review package now traces proposed requirements to failure scenarios, distinguishes warning delivery from caregiver response, preserves unresolved warnings through acknowledgment and lost updates, and identifies open performance parameters. A static paper interface and a simulated conversation preview support wording review only. No detector, trajectory simulator, monitoring service, hardware, or human study has been implemented or conducted. Specialist review is the next evidence gate.

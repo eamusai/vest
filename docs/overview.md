@@ -36,8 +36,8 @@ The separate [adult appearance concept](appearance-concept.md) explores an exter
 ```mermaid
 flowchart TD
     C["Current: research documents<br/>Child warning is the priority"]
-    C --> Q["Next: child-warning requirements<br/>and specialist review"]
-    Q --> U["Proposed: paper alerts, synthetic paths<br/>and dry surrogate studies"]
+    C --> Q["Next: review child requirements<br/>and resolve open decisions"]
+    Q --> U["Proposed: synthetic paths<br/>and dry surrogate studies"]
     U --> G{"Evidence supports<br/>further investigation?"}
     G -->|No| R["Revise, narrow or stop the concept"]
     R --> Q
@@ -49,6 +49,6 @@ flowchart TD
     class C current;
 ```
 
-Only research documents, the earlier paper mock-up, draft protocols, and an adult appearance illustration exist today. The next step is defining child-warning requirements and source gaps; paper alerts, synthetic paths, and dry surrogate work remain proposed. No children or water exposure are included in that initial feasibility proposal. Progress depends on evidence and may lead to revision or abandonment. This diagram does not authorize experiments, prescribe one validation route for every use case, or imply certification.
+Research documents, the earlier adult paper mock-up, a new [child-warning review package](child-warning-requirements.md) with [caregiver paper screens](child-caregiver-alert-mockup.md), draft protocols, and an adult appearance illustration exist today. The next step is specialist review of the child requirements and open parameters; synthetic-path and dry-surrogate work remain proposed. No children or water exposure are included in that initial feasibility proposal. Progress depends on evidence and may lead to revision or abandonment. This diagram does not authorize experiments, prescribe one validation route for every use case, or imply certification.
 
 Early research documents can be shared for review before later stages are complete. Public sharing and a reuse license do not establish that the device ideas work. See [next steps](next-steps.md) and [license scope](../LICENSING.md).

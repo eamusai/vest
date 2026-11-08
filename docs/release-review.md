@@ -10,8 +10,9 @@ Review date: November 8, 2026. Prepared for sharing the current research documen
 - The README identifies early research, no fabricated prototype, no completed experiments, and no demonstrated safety benefit.
 - A use-case diagram and proposed research-stage diagram include text explanations and put child water-approach warning first. The adult study remains a secondary track.
 - The child-warning, water-quality, adult water, avalanche, impact, altitude, and horse-warning ideas retain their evidence limitations. Manual/source gaps remain visible; no document claims that a prototype makes a family lake visit safe.
+- The child-warning review package contains proposed requirements, failure scenarios, paper screens, and an evaluation plan. Numerical performance limits and expert review remain open. The static print-ready screens contain no scripts or connected monitoring.
 - A labeled AI-generated adult appearance illustration and its prompt preserve the earlier exterior concept. Its provenance and license scope are explicit; it is not CAD or a child garment.
-- The repository contains research Markdown, an appearance image, its prompt, and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
+- The repository contains research Markdown, static paper-interface HTML/CSS, an appearance image, its prompt, and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
 
 ## Publication-specific review
 
@@ -22,6 +23,8 @@ The tracked files and reachable commit history were reviewed for unrelated mater
 Rewriting the branch does not guarantee removal from old clones or GitHub's retained commit objects and cached views. Existing clones should be replaced with a fresh clone or carefully reconciled before pushing so they do not restore the old history. If complete removal of historical copies is required before publication, resolve that separately with GitHub; a branch rewrite alone cannot establish it. [GitHub history-removal limitations](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 
 Both Mermaid diagrams were rendered and visually checked. Local document links and whitespace checks passed.
+
+The child review package's seven simulated screens were checked at desktop and narrow-screen widths, with acknowledgment preserving unresolved warnings and faults. Static print layouts were checked. These are presentation and documentation checks; no child, sensing, or field-performance study was conducted.
 
 ## Final owner action
 

@@ -6,7 +6,7 @@ November 8, 2026. Keep broad ideas visible while distinguishing their maturity a
 
 | Use case | Desired outcome | Current maturity / document |
 | --- | --- | --- |
-| **Child approaching water — highest priority** | Warn a supervising caregiver before a young child who cannot yet swim reaches a defined water hazard. | Requirements research; no working device or demonstrated benefit: [child warning](child-water-proximity-use-case.md). |
+| **Child approaching water — highest priority** | Warn a supervising caregiver before a young child who cannot yet swim reaches a defined water hazard. | Draft [requirements and review package](child-warning-requirements.md); no working device or demonstrated benefit: [child warning](child-water-proximity-use-case.md). |
 | Harmful-water exposure | Explore sensing specified bacteria, toxins, or contaminants and alerting a wearer or caregiver. | Initial feasibility brief; immediate universal detection is not established: [water-quality alerts](water-quality-use-case.md). |
 | Unexpected lake immersion | Support adult wear, fit, readiness, and hands-free alerting when the wearer cannot act. | Earlier adult dry usability project, now secondary: [water prototype](prototype.md). |
 | Avalanche involvement and burial | Reduce burial, create breathing space, and explore automatic activation or breathable-air support. | Research brief with existing-equipment comparisons: [avalanche](avalanche-use-case.md). |

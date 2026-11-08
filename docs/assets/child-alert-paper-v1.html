@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vest caregiver alerts — paper research mock-up</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 32px; background: #eef1f3; color: #18252d; font: 17px/1.5 system-ui, sans-serif; }
+  main { max-width: 1000px; margin: auto; }
+  h1 { font-size: 28px; margin: 0 0 12px; }
+  h2 { font-size: 23px; line-height: 1.25; font-weight: 600; }
+  p { margin: 12px 0; }
+  .intro { margin-bottom: 28px; }
+  .screens { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 28px; }
+  article { background: white; border: 1px solid #bfcbd2; border-radius: 14px; padding: 24px; break-inside: avoid; }
+  .banner { font-size: 13px; font-weight: 600; letter-spacing: .04em; padding-bottom: 12px; border-bottom: 1px solid #bfcbd2; }
+  .label { font-size: 14px; color: #4a5962; }
+  .urgent h2 { color: #9b291f; }
+  .identity { margin: 20px 0; padding: 14px 0; border-top: 1px solid #c8d2d8; border-bottom: 1px solid #c8d2d8; }
+  .action { display: inline-block; background: #233c4b; color: white; padding: 12px 18px; border-radius: 8px; font-weight: 600; }
+  .acknowledged { background: #e7ebed; color: #273943; }
+  .footer { font-size: 15px; margin-top: 24px; }
+  a { color: #185a80; }
+  @media (max-width: 600px) { body { padding: 16px; } .screens { grid-template-columns: 1fr; } }
+  @page { size: A4; margin: 20mm; }
+  @media print {
+    body { padding: 0; background: white; font-size: 17px; }
+    .intro, .license { display: none; }
+    .screens { display: block; }
+    article { width: 100%; max-width: 145mm; margin: 0 auto; padding: 12mm; border-color: #6d7880; break-after: page; page-break-after: always; }
+    article:last-child { break-after: auto; page-break-after: auto; }
+    .action { background: white; color: #18252d; border: 1px solid #18252d; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="intro"><h1>Caregiver alert paper screens</h1><p>Version 0.1 · November 8, 2026. Fictional scenarios only. No live monitoring. Print one screen per page for a draft review. Shapes labeled as actions are paper controls, not working buttons.</p></div>
+  <div class="screens">
+    <article aria-labelledby="s00">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S00 · Not configured</p>
+      <h2 id="s00">Warnings unavailable</h2><p>Boundary and receiver setup are incomplete. Do not rely on this concept for monitoring.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver: not confirmed</div>
+      <p>No acknowledgment action.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article aria-labelledby="s01">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S01 · Receiving updates</p>
+      <h2 id="s01">Receiving updates</h2><p>No approach alert in this simulated scenario. This does not establish the child's safety.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver A · All values simulated</div>
+      <p>No acknowledgment action.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article class="urgent" aria-labelledby="s02">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S02 · Possible approach</p>
+      <h2 id="s02">Check the child immediately</h2><p>Wearable A may be approaching the water boundary. Position is an estimate.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver A · Event unresolved</div>
+      <p class="action">Acknowledge message</p><p>Acknowledgment does not clear the warning.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article class="urgent" aria-labelledby="s03">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S03 · Message acknowledged</p>
+      <h2 id="s03">Check the child immediately</h2><p>Message acknowledged. The possible approach remains unresolved. Acknowledgment does not confirm the child's location or safety.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver A · Event unresolved</div>
+      <p class="action acknowledged">Message acknowledged</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article aria-labelledby="s04">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S04 · Updates lost</p>
+      <h2 id="s04">Check the child. Updates unavailable.</h2><p>Wearable A's location is not current. Monitoring cannot determine approach.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver A · Current position unavailable</div>
+      <p class="action">Acknowledge message</p><p>Acknowledgment does not restore updates.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article class="urgent" aria-labelledby="s05">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S05 · Approach plus fault</p>
+      <h2 id="s05">Check the child immediately</h2><p>Earlier possible approach is unresolved. Location updates are now unavailable.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Receiver A · Warning and fault unresolved</div>
+      <p class="action">Acknowledge message</p><p>Acknowledgment leaves both issues unresolved.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+    <article aria-labelledby="s06">
+      <div class="banner">RESEARCH MOCK-UP · NO LIVE MONITORING</div><p class="label">S06 · Handoff pending</p>
+      <h2 id="s06">Receiver handoff pending</h2><p>Receiver B has not accepted. Receiver A remains assigned. Confirm responsibility directly with the other adult.</p>
+      <div class="identity">Wearable A · Lake boundary A<br>Assigned receiver: A</div>
+      <p>A phone assignment does not prove supervision.</p><p class="footer">Keep close supervision. No alert does not mean safe.</p>
+    </article>
+  </div>
+  <p class="license">Original paper-interface documentation: <a href="../../LICENSING.md">CC BY 4.0 scope</a>. See the <a href="../child-caregiver-alert-mockup.md">mock-up notes and limitations</a>.</p>
+</main>
+</body>
+</html>

@@ -4,6 +4,8 @@
 
 Effective November 8, 2026, except where otherwise identified, the original written research, forms, and conceptual diagrams in `README.md`, this notice, and `docs/` are licensed under the **Creative Commons Attribution 4.0 International license (CC BY 4.0)**. This includes the original Mermaid diagram source embedded in those documents.
 
+The static [caregiver paper screens](docs/assets/child-alert-paper-v1.html), including their HTML/CSS layout, are documentation under this same grant. They contain no operational monitoring or alert software.
+
 The [adult appearance concept](docs/appearance-concept.md) identifies an AI-generated image and its retained prompt. The project offers any copyright or similar rights it holds in that image and prompt under the same license. This does not assert that every AI-generated element is copyrightable or create restrictions on material for which permission is not required.
 
 You may copy, redistribute, and adapt this material, including for commercial purposes, under the license terms. Give appropriate credit, link to the license, and identify modifications. The [official license text](LICENSE) controls; this notice is a scope statement and summary, not a replacement for it.

@@ -18,6 +18,8 @@ Further scenarios cover impact cushioning for horse riders and motorcyclists, fa
 
 Start with the [highest-priority child warning case](docs/child-water-proximity-use-case.md), [visual overview](docs/overview.md), and [use-case catalog](docs/use-cases.md). The diagrams show research questions and proposed stages, not a completed device architecture. A separate [adult appearance concept](docs/appearance-concept.md) preserves the first exterior illustration; it is not a child design or CAD.
 
+The child-warning review package now includes [proposed requirements and candidate approaches](docs/child-warning-requirements.md), [17 failure scenarios](docs/child-warning-failure-scenarios.md), [seven caregiver paper screens](docs/child-caregiver-alert-mockup.md), and a [staged evaluation plan](docs/child-warning-evaluation-plan.md). These drafts make the next review concrete; no operating thresholds, sensor architecture, or safety benefit have been validated.
+
 1. [Child water-approach warning: highest priority](docs/child-water-proximity-use-case.md)
 2. [Decisions and roadmap](docs/decisions.md)
 3. [Open questions and next steps](docs/next-steps.md)

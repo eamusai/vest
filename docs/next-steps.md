@@ -6,13 +6,13 @@ November 8, 2026. None of the proposed study work has been executed.
 
 ## Highest priority: child water-approach warning
 
-The [child-warning brief](child-water-proximity-use-case.md) takes precedence over the other tracks. The aim is to help save a young child's life with a timely caregiver warning before water entry. The immediate deliverable is a requirements and failure-scenario specification plus a paper alert mock-up, not deployable safety hardware.
+The [child-warning brief](child-water-proximity-use-case.md) takes precedence over the other tracks. The aim is to help save a young child's life with a timely caregiver warning before water entry. A draft [requirements specification](child-warning-requirements.md), [failure register](child-warning-failure-scenarios.md), [paper alert mock-up](child-caregiver-alert-mockup.md), and [evaluation plan](child-warning-evaluation-plan.md) now exist. They are review materials, not deployable safety hardware.
 
-1. Define the initial known-boundary setting, intended child users, caregiver responsibilities, and the meaning of an approach warning. Preserve broader water environments as open scope rather than assuming universal detection.
-2. Review existing boundary, gate, immersion, and wearable alert approaches, and consult pediatric water-safety, positioning, and human-factors specialists. Keep prevention before entry distinct from detection after immersion.
-3. Specify position/boundary uncertainty, data age, missing signals, removal, low power, delivery, caregiver handoff, and acknowledgment. Choose no warning distance or performance guarantee without evidence.
-4. Define acceptance criteria and a separately reviewed dry evaluation using synthetic paths and inert or adult-operated surrogates. Measure missed/late alerts, false alerts, and failure visibility away from water. No child recruitment or water exposure is proposed.
-5. Review whether the concept could weaken supervision or create false reassurance. Establish child-appropriate wearability and privacy requirements before selecting hardware or creating child CAD.
+1. Review the fictional fixed-shoreline starting model and the 16 proposed requirements. Resolve the intended child age/size range, coverage assumptions, receiver responsibility, and approach-event definition. Preserve broader water environments as open scope rather than assuming universal detection.
+2. Extend the scoped comparison of access, immersion, geographic-boundary, and local-ranging approaches. Obtain pediatric water-safety, positioning, and human-factors review; none has happened yet. Use the evaluation plan's questions without treating this as authorization to contact people.
+3. Resolve the open numerical limits and architecture questions: position/boundary uncertainty, information age, warning time, detection rates, power, and how an unreachable receiver's failure can be noticed. Choose no warning distance or performance guarantee without evidence.
+4. Freeze acceptance criteria and a separately reviewed synthetic/dry evaluation plan. The 17 scenarios are proposed, not executed; no child recruitment or water exposure is included.
+5. Review the seven paper screens for false reassurance, acknowledgment confusion, and handoff misunderstanding. Establish child-appropriate wearability and privacy requirements before selecting hardware or creating child CAD.
 
 ## Adult track: before testing
 

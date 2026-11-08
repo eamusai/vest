@@ -47,9 +47,16 @@ These primary sources were opened on November 8, 2026. They support requirements
 - **Caregiver responsibility:** clarify pairing and handoff between adults, and which receiver is actively responsible. Avoid an interface that encourages caregivers to step away because monitoring appears active.
 - **Privacy:** use secure, explicit caregiver pairing; minimize location storage and retention; avoid public child-location feeds. No child identities, household locations, or family movement records belong in this public research repository.
 
-## First deliverable and evaluation path
+## Review package and evaluation path
 
-The next deliverable is a requirements and failure-scenario specification for the known-boundary case, plus a paper caregiver-alert mock-up. Review it with pediatric water-safety, human-factors, and positioning specialists before choosing hardware. Establish acceptance criteria before collecting performance data; successful demonstrations alone would not establish reliability.
+The first review package is drafted:
+
+- [Requirements, open parameters, and candidate approaches](child-warning-requirements.md): 16 proposed obligations, with a fictional fixed lake-shore segment as the first desk model.
+- [Failure-scenario register](child-warning-failure-scenarios.md): 17 scenarios and a blank evidence record, including multiple wearables, handoff, timing, and compound failures.
+- [Caregiver paper mock-up](child-caregiver-alert-mockup.md): seven draft screens; acknowledging a message does not clear its warning.
+- [Staged evaluation plan](child-warning-evaluation-plan.md): review questions, decision register, and evidence gates before any field work.
+
+Review this package with pediatric water-safety, human-factors, and positioning specialists before choosing hardware. Establish acceptance criteria before collecting performance data; successful demonstrations alone would not establish reliability. No specialist review or performance study has occurred.
 
 Begin any later feasibility work with synthetic trajectories and inert tags or adult-operated surrogates in a dry area with a simulated boundary, away from water. Measure missed/late alerts, false alerts, uncertainty, delivery and acknowledgment delays, and fault visibility. Include failures such as a moved reference device, outdated boundary, and disconnected receiver. No child exposure, water-entry trial, deliberate supervision lapse, or recruitment is proposed here.
 
