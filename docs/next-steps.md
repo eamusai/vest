@@ -24,6 +24,10 @@ November 8, 2026. None of the proposed study work has been executed.
 
 Will a system inflate, keep an incapacitated person's airway clear, transmit successfully in a particular posture, or bring rescuers in time? Does it reduce deaths? Are new heating, propulsion, or backup-buoyancy designs safe or novel? These require different evidence and separately designed studies.
 
+## Avalanche research track
+
+Read the [avalanche use case](avalanche-use-case.md) for the added skiing/snowboarding scenario. First compare existing deflating airbags and breathing-support systems with the proposed automatic activation and chamber-air ideas. Resolve exact manual/compatibility gaps and identify a specific unmet need before selecting equipment. A separate dry usability protocol and specialist mannequin/bench plan would be required; the water pilot does not validate snow-burial performance.
+
 ## Before public sharing or manufacturer handoff
 
 Select a license for original work, review third-party rights, and decide publication scope. Preserve manufacturer links rather than copying manuals or drawings. Document what was actually tested, failures and uncertainties, revision history, and reproducibility requirements. The repository remains private until an explicit publication decision; a local commit is not publication.

@@ -28,3 +28,7 @@ The original concept combined comfortable uninflated wear, automatic inflation, 
 One candidate would infer failed or partial inflation using pressure, temperature, and actual chamber expansion, then deploy independent backup buoyancy. Preserve it as an unvalidated research idea: novelty, sensing reliability, safety, and benefit are unknown. Prior-art discussion found related alerts, heating, distributed sensors, antenna selection, and self-checks; no complete patent landscape or freedom-to-operate analysis was performed.
 
 The current scenario does not cover children, whitewater, every activity, or every body type. Expanding the scope requires new requirements and evidence.
+
+## Added use case: avalanche burial
+
+On November 8, 2026, the user requested a skiing/snowboarding avalanche scenario and proposed inflation to create breathing space, subsequent deflation, automatic avalanche detection, and using chamber air for breathing. The [avalanche brief](avalanche-use-case.md) preserves these as separate, unvalidated research questions and compares them with existing equipment and studies. It adds a research track without replacing the first water-use prototype or selecting a universal vest, breathing apparatus, or automatic trigger. No additional hardware work or human experiments have been conducted.

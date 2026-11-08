@@ -4,6 +4,8 @@
 
 Source review date: **November 8, 2026**. This ledger preserves the voice-conversation research and its limitations. Core sources were reopened during documentation; entries marked “follow-up” retain prior research findings and need renewed full-source review before use in operational guidance. Product descriptions are manufacturer claims, not independent validation of Vest.
 
+This ledger covers the original water scenario. See the [avalanche research brief](avalanche-use-case.md) for snow-burial sources and separate limitations; boating evidence does not validate avalanche equipment.
+
 ## Wear, fit, and readiness
 
 | Evidence | Finding and implication | Limits |
