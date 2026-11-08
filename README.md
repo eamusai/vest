@@ -8,6 +8,8 @@ The first working scenario is an adult recreational boater or canoeist on a lake
 
 A second research scenario concerns a skier or snowboarder caught and potentially buried in an avalanche. It explores breathing space, breathable-air support, and automatic activation as separate questions. It has no selected hardware design or approved test protocol. Water and snow require separate equipment and evidence; this is not a universal-vest specification.
 
+Further scenarios cover impact cushioning for horse riders and motorcyclists, falls from altitude as an explicit long-term stretch goal, and a horse-worn monitor connected to the rider's vest to investigate advance warning of a spook. Emergency dismount assistance is also recorded as unvalidated research. The [use-case catalog](docs/use-cases.md) keeps these ambitions and their maturity visible.
+
 ## Read the drafts
 
 1. [Evidence and source limitations](docs/evidence.md)
@@ -18,6 +20,8 @@ A second research scenario concerns a skier or snowboarder caught and potentiall
 6. [Reusable observation form](docs/observation-form.md)
 7. [Open questions and next steps](docs/next-steps.md)
 8. [Avalanche use case: breathing space, activation, and rescue](docs/avalanche-use-case.md)
+9. [Falls and impact cushioning, including the altitude stretch goal](docs/fall-impact-use-case.md)
+10. [Horse-to-vest warning and emergency dismount research](docs/horse-warning-use-case.md)
 
 The companion is an incomplete research mock-up, not an operational checklist or certification of readiness. Exact manufacturer requirements must be mapped and reviewed before participant testing. Follow the current instructions for the actual equipment; these drafts do not replace them.
 

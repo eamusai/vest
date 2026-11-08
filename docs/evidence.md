@@ -6,6 +6,8 @@ Source review date: **November 8, 2026**. This ledger preserves the voice-conver
 
 This ledger covers the original water scenario. See the [avalanche research brief](avalanche-use-case.md) for snow-burial sources and separate limitations; boating evidence does not validate avalanche equipment.
 
+Additional source summaries are in the [fall-impact brief](fall-impact-use-case.md) and [horse-warning brief](horse-warning-use-case.md). Each distinguishes existing-product behavior, observational research, and proposed requirements; evidence does not transfer automatically across activities.
+
 ## Wear, fit, and readiness
 
 | Evidence | Finding and implication | Limits |

@@ -32,3 +32,9 @@ The current scenario does not cover children, whitewater, every activity, or eve
 ## Added use case: avalanche burial
 
 On November 8, 2026, the user requested a skiing/snowboarding avalanche scenario and proposed inflation to create breathing space, subsequent deflation, automatic avalanche detection, and using chamber air for breathing. The [avalanche brief](avalanche-use-case.md) preserves these as separate, unvalidated research questions and compares them with existing equipment and studies. It adds a research track without replacing the first water-use prototype or selecting a universal vest, breathing apparatus, or automatic trigger. No additional hardware work or human experiments have been conducted.
+
+## Added use cases: falls and horse-to-vest warning
+
+The user requested automatic impact cushioning for horse riding, motorcycle falls, altitude falls, and potentially other rapid falls. They explicitly asked to retain altitude falls as a long-term reach rather than remove the idea because it is difficult. The [fall-impact brief](fall-impact-use-case.md) keeps that ambition while separating deceleration, impact cushioning, and activity-specific evidence.
+
+The user also described a monitor worn by the horse, connected to the rider's vest, intended to predict a spook and warn the rider, with inflation potentially assisting an emergency dismount. The [horse-warning brief](horse-warning-use-case.md) records the full intended flow. Advance prediction, the benefit of a warning, and safe dismount cushioning are unvalidated; the concept is not an instruction to jump or automatically dismount. The [catalog](use-cases.md) preserves all of these cases. No hardware or live intervention has been added.

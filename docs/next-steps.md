@@ -28,6 +28,12 @@ Will a system inflate, keep an incapacitated person's airway clear, transmit suc
 
 Read the [avalanche use case](avalanche-use-case.md) for the added skiing/snowboarding scenario. First compare existing deflating airbags and breathing-support systems with the proposed automatic activation and chamber-air ideas. Resolve exact manual/compatibility gaps and identify a specific unmet need before selecting equipment. A separate dry usability protocol and specialist mannequin/bench plan would be required; the water pilot does not validate snow-burial performance.
 
+## Impact and horse-warning research tracks
+
+Use the [catalog](use-cases.md) to retain the broader set of ideas. Compare existing rider airbags separately for [motorcycle and equestrian impacts](fall-impact-use-case.md). Keep altitude falls as a long-term feasibility question for aerospace and biomechanics specialists; do not infer protection from ordinary vest inflation.
+
+For the [horse-to-vest warning](horse-warning-use-case.md), first establish whether a signal reliably precedes a spook with usable lead time. Begin with literature, expert review, and an observational-study proposal. Study alert interpretation away from horses before considering live warnings. Any emergency dismount concept needs separate evidence that the response helps; no deliberate jumps, induced spooks, or human impact trials are proposed.
+
 ## Before public sharing or manufacturer handoff
 
 Select a license for original work, review third-party rights, and decide publication scope. Preserve manufacturer links rather than copying manuals or drawings. Document what was actually tested, failures and uncertainties, revision history, and reproducibility requirements. The repository remains private until an explicit publication decision; a local commit is not publication.
