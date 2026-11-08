@@ -4,6 +4,8 @@
 
 Version 0.1 · November 8, 2026 · **Dry research only — incomplete instruction mapping.**
 
+This mock-up belongs to the earlier adult boating study. It does not cover the highest-priority [child water-approach warning](child-water-proximity-use-case.md) or pediatric equipment.
+
 This sheet records what a person reports checking. It does not diagnose equipment or certify safety/readiness. Use the exact current manufacturer instructions; the headings below are not a complete operational checklist. Do not use this draft to prepare for a real outing.
 
 **States:** Not verified = no supported confirmation recorded; Checked = person reports completing the applicable prescribed check; Needs attention = a problem, uncertainty, or unresolved requirement was identified. Record uncertainty rather than guessing. No combined readiness score is provided.

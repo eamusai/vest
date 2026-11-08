@@ -4,6 +4,8 @@
 
 Version 0.1 — November 8, 2026. A human-factors mock-up, not new safety hardware.
 
+This is the earlier **adult** water-use project, retained as a secondary track. [Child water-approach warning](child-water-proximity-use-case.md) is now the highest priority; this equipment and protocol do not establish suitability for children.
+
 **Question:** Can a clearly organized preparation companion reduce safety-relevant omissions or wrong decisions when adults use the same equipment and manufacturer instructions?
 
 ## Reference pair and source set

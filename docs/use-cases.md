@@ -6,7 +6,9 @@ November 8, 2026. Keep broad ideas visible while distinguishing their maturity a
 
 | Use case | Desired outcome | Current maturity / document |
 | --- | --- | --- |
-| Unexpected lake immersion | Support wear, fit, readiness, and hands-free alerting when the wearer cannot act. | First defined dry usability project: [water prototype](prototype.md). |
+| **Child approaching water — highest priority** | Warn a supervising caregiver before a young child who cannot yet swim reaches a defined water hazard. | Requirements research; no working device or demonstrated benefit: [child warning](child-water-proximity-use-case.md). |
+| Harmful-water exposure | Explore sensing specified bacteria, toxins, or contaminants and alerting a wearer or caregiver. | Initial feasibility brief; immediate universal detection is not established: [water-quality alerts](water-quality-use-case.md). |
+| Unexpected lake immersion | Support adult wear, fit, readiness, and hands-free alerting when the wearer cannot act. | Earlier adult dry usability project, now secondary: [water prototype](prototype.md). |
 | Avalanche involvement and burial | Reduce burial, create breathing space, and explore automatic activation or breathable-air support. | Research brief with existing-equipment comparisons: [avalanche](avalanche-use-case.md). |
 | Fall from a horse | Cushion relevant impacts during a rider fall. | Research comparison; no equipment selected: [fall protection](fall-impact-use-case.md). |
 | Motorcycle crash or fall | Recognize a relevant event and cushion impact in time. | Separate activity-specific research scenario: [fall protection](fall-impact-use-case.md). |
@@ -15,4 +17,4 @@ November 8, 2026. Keep broad ideas visible while distinguishing their maturity a
 | Horse-to-rider early warning | A horse-worn monitor communicates with the vest to warn of a possible impending spook. | Prediction, communication, and safe response remain separate hypotheses: [horse warning](horse-warning-use-case.md). |
 | Emergency dismount assistance | Explore whether vest cushioning could reduce injury during an emergency dismount. | Stretch concept linked to the horse warning; no claim that jumping is safe: [horse warning](horse-warning-use-case.md). |
 
-The first water-use study remains the defined initial project. The additional scenarios preserve the user's wider ambition without treating all of them as ready for fabrication or human testing. New cases should record the user need, existing approaches, evidence gaps, and the next safe way to learn.
+Child water-approach warning takes precedence over every other scenario. Its next step is defining requirements and evaluating feasibility, not child deployment. The earlier adult study and other scenarios remain in the catalog without treating them as ready for fabrication or human testing. New cases should record the user need, existing approaches, evidence gaps, and the next safe way to learn.

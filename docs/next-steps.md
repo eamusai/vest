@@ -4,7 +4,17 @@
 
 November 8, 2026. None of the proposed study work has been executed.
 
-## Before testing
+## Highest priority: child water-approach warning
+
+The [child-warning brief](child-water-proximity-use-case.md) takes precedence over the other tracks. The aim is to help save a young child's life with a timely caregiver warning before water entry. The immediate deliverable is a requirements and failure-scenario specification plus a paper alert mock-up, not deployable safety hardware.
+
+1. Define the initial known-boundary setting, intended child users, caregiver responsibilities, and the meaning of an approach warning. Preserve broader water environments as open scope rather than assuming universal detection.
+2. Review existing boundary, gate, immersion, and wearable alert approaches, and consult pediatric water-safety, positioning, and human-factors specialists. Keep prevention before entry distinct from detection after immersion.
+3. Specify position/boundary uncertainty, data age, missing signals, removal, low power, delivery, caregiver handoff, and acknowledgment. Choose no warning distance or performance guarantee without evidence.
+4. Define acceptance criteria and a separately reviewed dry evaluation using synthetic paths and inert or adult-operated surrogates. Measure missed/late alerts, false alerts, and failure visibility away from water. No child recruitment or water exposure is proposed.
+5. Review whether the concept could weaken supervision or create false reassurance. Establish child-appropriate wearability and privacy requirements before selecting hardware or creating child CAD.
+
+## Adult track: before testing
 
 1. Finish reviewing the Elite owner manual, PLB3 manual, fitting guide diagrams, and applicable equipment labels. Confirm revisions, market, eligibility, and compatibility; resolve conflicts with manufacturers. Record exact page/section references for each companion item and scored task.
 2. Determine which requirements apply to installation, service, and each outing. Replace broad research prompts with a reviewed, traceable sequence before any operational use. Keep the current draft visibly incomplete until then.
@@ -12,7 +22,7 @@ November 8, 2026. None of the proposed study work has been executed.
 4. Have a qualified boating-safety/human-factors reviewer examine the companion and protocol. Expert interviews may improve the next revision; they are not prerequisites to these initial drafts.
 5. Specify recruitment, consent, privacy, equipment suitability, facilitator preparation, and the inert fault-example answer key. Obtain equipment only after that plan is agreed. No purchase or recruitment has occurred.
 
-## Questions the pilot can help answer
+## Questions the adult pilot can help answer
 
 - Which required information is hardest to find or understand?
 - Does separating installation from outing preparation reduce omissions or create new confusion?
@@ -20,9 +30,11 @@ November 8, 2026. None of the proposed study work has been executed.
 - Which movements create pressure or restriction, and does ordinary prescribed adjustment resolve it?
 - Are errors tied to the paper design, instruction complexity, unfamiliarity, or equipment fit?
 
-## Questions it cannot answer
+## Questions the adult pilot cannot answer
 
 Will a system inflate, keep an incapacitated person's airway clear, transmit successfully in a particular posture, or bring rescuers in time? Does it reduce deaths? Are new heating, propulsion, or backup-buoyancy designs safe or novel? These require different evidence and separately designed studies.
+
+It also cannot validate child water-approach detection, pediatric garment suitability, or the effectiveness of caregiver alerts. The [adult appearance concept](appearance-concept.md) adds no engineering evidence; any later CAD needs defined requirements and specialist review.
 
 ## Avalanche research track
 
@@ -33,6 +45,10 @@ Read the [avalanche use case](avalanche-use-case.md) for the added skiing/snowbo
 Use the [catalog](use-cases.md) to retain the broader set of ideas. Compare existing rider airbags separately for [motorcycle and equestrian impacts](fall-impact-use-case.md). Keep altitude falls as a long-term feasibility question for aerospace and biomechanics specialists; do not infer protection from ordinary vest inflation.
 
 For the [horse-to-vest warning](horse-warning-use-case.md), first establish whether a signal reliably precedes a spook with usable lead time. Begin with literature, expert review, and an observational-study proposal. Study alert interpretation away from horses before considering live warnings. Any emergency dismount concept needs separate evidence that the response helps; no deliberate jumps, induced spooks, or human impact trials are proposed.
+
+## Harmful-water sensing track
+
+Use the [water-quality brief](water-quality-use-case.md) to select one initial hazard and setting with relevant specialists. Compare direct sensing, proxy measurements, and official advisories without treating them as equivalent. Establish detection delay, validity, reference methods, and false-negative risks before hardware selection. Begin with published data and paper alerts; no contaminated-water exposure or swimming trial is proposed. This track does not displace the child-approach priority.
 
 ## Before public sharing or manufacturer handoff
 

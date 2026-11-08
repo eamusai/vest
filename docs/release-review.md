@@ -8,9 +8,10 @@ Review date: November 8, 2026. Prepared for sharing the current research documen
 
 - Original research documents, reusable forms, and conceptual diagrams have an explicit CC BY 4.0 license. Linked third-party sources retain their rights.
 - The README identifies early research, no fabricated prototype, no completed experiments, and no demonstrated safety benefit.
-- A use-case diagram and proposed research-stage diagram include text explanations and distinguish the first study from stretch concepts.
-- The water, avalanche, impact, altitude, and horse-warning ideas retain their evidence limitations. Manual/source gaps remain visible.
-- The repository contains original Markdown and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
+- A use-case diagram and proposed research-stage diagram include text explanations and put child water-approach warning first. The adult study remains a secondary track.
+- The child-warning, water-quality, adult water, avalanche, impact, altitude, and horse-warning ideas retain their evidence limitations. Manual/source gaps remain visible; no document claims that a prototype makes a family lake visit safe.
+- A labeled AI-generated adult appearance illustration and its prompt preserve the earlier exterior concept. Its provenance and license scope are explicit; it is not CAD or a child garment.
+- The repository contains research Markdown, an appearance image, its prompt, and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
 
 ## Publication-specific review
 

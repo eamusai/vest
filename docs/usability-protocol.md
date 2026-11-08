@@ -4,6 +4,8 @@
 
 Version 0.1 — November 8, 2026. Proposed; not conducted. Recruitment is not authorized by this document alone.
 
+Scope: earlier adult boating research, now a secondary track. This is not a protocol for the highest-priority [child water-approach warning](child-water-proximity-use-case.md).
+
 ## Purpose and design
 
 Explore whether the preparation companion changes safety-relevant omissions and wrong decisions, and identify comfort problems in unmodified equipment. Recruit a proposed formative sample of 12 adults fitting the equipment's prescribed user limits and relevant lake boating/canoeing scenario. Record boating experience and prior inflatable/beacon familiarity without collecting unnecessary personal data.

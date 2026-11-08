@@ -1,29 +1,35 @@
 # Vest
 
-Help save even one additional life by making useful wearable safety designs easier to understand, evaluate, and eventually reproduce.
+Help save a child's life. Vest's highest priority is exploring a wearable warning that alerts a supervising caregiver before a young child who cannot yet swim approaches a water hazard.
 
 **Status — November 8, 2026:** early research, open for review and reuse under [CC BY 4.0](LICENSING.md). No equipment has been purchased or modified, no prototype fabricated, no participants recruited, and no experiments conducted. No safety benefit has been demonstrated.
 
-The first working scenario is an adult recreational boater or canoeist on a lake who unexpectedly enters the water and cannot use a phone or press a distress button. The first project is a printable preparation companion and dry comfort/usability research using existing equipment. It adds no hardware to a deployment mechanism and needs no phone in an emergency.
+Start with the [child water-approach warning brief](docs/child-water-proximity-use-case.md). The immediate work is defining a known water boundary, sensing uncertainty, timely caregiver alerts, and failure behavior. No working child-warning device exists. This would be an additional aid alongside close, constant supervision and barriers, not a substitute for them. [CDC prevention guidance](https://www.cdc.gov/drowning/prevention/index.html)
 
-A second research scenario concerns a skier or snowboarder caught and potentially buried in an avalanche. It explores breathing space, breathable-air support, and automatic activation as separate questions. It has no selected hardware design or approved test protocol. Water and snow require separate equipment and evidence; this is not a universal-vest specification.
+The earlier adult lake-boating/canoeing scenario remains a secondary research track: a printable preparation companion and proposed dry comfort/usability study using existing equipment. It adds no hardware to a deployment mechanism and needs no phone in an emergency. Those equipment choices and that adult protocol do not transfer to children.
+
+An additional research scenario concerns a skier or snowboarder caught and potentially buried in an avalanche. It explores breathing space, breathable-air support, and automatic activation as separate questions. It has no selected hardware design or approved test protocol. Water and snow require separate equipment and evidence; this is not a universal-vest specification.
 
 Further scenarios cover impact cushioning for horse riders and motorcyclists, falls from altitude as an explicit long-term stretch goal, and a horse-worn monitor connected to the rider's vest to investigate advance warning of a spook. Emergency dismount assistance is also recorded as unvalidated research. The [use-case catalog](docs/use-cases.md) keeps these ambitions and their maturity visible.
 
+[Harmful-water sensing](docs/water-quality-use-case.md) is another research ambition: identify specified bacteria, toxins, or contaminants and warn a wearer or caregiver. Immediate, broad detection by a vest is not established; general water measurements cannot certify water as safe. This does not change the child-approach priority.
+
 ## Read the drafts
 
-Start with the [visual overview](docs/overview.md) and [use-case catalog](docs/use-cases.md), then explore the research below. The diagrams show research questions and proposed stages, not a completed device architecture.
+Start with the [highest-priority child warning case](docs/child-water-proximity-use-case.md), [visual overview](docs/overview.md), and [use-case catalog](docs/use-cases.md). The diagrams show research questions and proposed stages, not a completed device architecture. A separate [adult appearance concept](docs/appearance-concept.md) preserves the first exterior illustration; it is not a child design or CAD.
 
-1. [Evidence and source limitations](docs/evidence.md)
+1. [Child water-approach warning: highest priority](docs/child-water-proximity-use-case.md)
 2. [Decisions and roadmap](docs/decisions.md)
-3. [Prototype brief and reference equipment](docs/prototype.md)
-4. [Printable preparation companion](docs/preparation-companion.md)
-5. [Dry usability pilot protocol](docs/usability-protocol.md)
-6. [Reusable observation form](docs/observation-form.md)
-7. [Open questions and next steps](docs/next-steps.md)
-8. [Avalanche use case: breathing space, activation, and rescue](docs/avalanche-use-case.md)
-9. [Falls and impact cushioning, including the altitude stretch goal](docs/fall-impact-use-case.md)
-10. [Horse-to-vest warning and emergency dismount research](docs/horse-warning-use-case.md)
+3. [Open questions and next steps](docs/next-steps.md)
+4. [Adult water evidence and source limitations](docs/evidence.md)
+5. [Adult prototype brief and reference equipment](docs/prototype.md)
+6. [Printable adult preparation companion](docs/preparation-companion.md)
+7. [Adult dry usability pilot protocol](docs/usability-protocol.md)
+8. [Reusable adult observation form](docs/observation-form.md)
+9. [Avalanche use case: breathing space, activation, and rescue](docs/avalanche-use-case.md)
+10. [Falls and impact cushioning, including the altitude stretch goal](docs/fall-impact-use-case.md)
+11. [Horse-to-vest warning and emergency dismount research](docs/horse-warning-use-case.md)
+12. [Harmful-water sensing and alerts](docs/water-quality-use-case.md)
 
 The companion is an incomplete research mock-up, not an operational checklist or certification of readiness. Exact manufacturer requirements must be mapped and reviewed before participant testing. Follow the current instructions for the actual equipment; these drafts do not replace them.
 

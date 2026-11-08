@@ -4,6 +4,8 @@
 
 Blank reusable form — not a completed test record. Version 0.1, November 8, 2026.
 
+For the earlier adult boating pilot only. The highest-priority [child water-approach warning](child-water-proximity-use-case.md) requires separate requirements and evaluation materials.
+
 Session ID: ______ Date: ______ Observer: ______ Arm (A/B): ______
 
 Consent recorded: ______ Equipment/manual/companion revisions: __________________

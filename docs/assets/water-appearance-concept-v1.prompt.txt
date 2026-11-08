@@ -1,0 +1,9 @@
+Use case: product-mockup
+Asset type: initial brainstorming concept board for the Vest open research project
+Primary request: a speculative visual of what an inflatable water-use vest might look like, for discussion before engineering or CAD
+Scene/backdrop: simple warm-white studio board with generous whitespace
+Subject: the same imagined adult wearable vest shown in two consistent views: a larger front three-quarter view on the left and a rear view on the right, on neutral faceless torso forms without arms. Compact uninflated textile-like exterior, open arm movement, short waist-length silhouette, minimal practical appearance and a modest visibility accent. This is only an exterior form exploration; the shape is not a validated flotation geometry.
+Style/medium: restrained industrial-design concept illustration, believable fabric surfaces and subtle sketch lines, clearly an exploratory rendering rather than a photograph of manufactured equipment
+Composition/framing: wide landscape board, balanced views, full garment visible without cropping, concise legible typography, no additional objects or people
+Text (verbatim): title "VEST"; subtitle "Water-use appearance concept"; view labels "Front" and "Back"; footer "UNVALIDATED · NOT TO SCALE"; small line "Exterior concept only. Internal systems are not defined."
+Constraints: no brand or manufacturer logos, no certifications, no safety or performance claims, no dimensions or measurements, no invented cutaways or mechanisms, no gas cylinders or breathing tubes, no operational controls or readiness indicators, no depiction of water emergencies or people relying on the garment. No universal water/avalanche/motorcycle/altitude design. No parachute, propulsion, or wings. The board is an initial appearance idea only, not build instructions or fabrication CAD.
