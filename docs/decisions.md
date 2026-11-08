@@ -10,7 +10,7 @@ Decision record — November 8, 2026. These choices come from the initial voice 
 | Keep inflatable designs central; foam is not required. | Comfort before an accident matters to the original concept. | Activity, fit, or equipment requirements favor another design. |
 | Use existing equipment and a paper preparation companion first. | Investigate omissions and misunderstandings before altering safety hardware. | A documented problem remains after improving information and fit. |
 | Separate initial installation/service from before-outing checks. | Repeated installation is not automatically a required pre-use action. | Exact manuals prescribe a different schedule. |
-| Explore open sharing rather than patents. | Aim to hand reproducible, tested work to capable manufacturers/researchers. | Choose licensing and publication terms before release. |
+| Explore open sharing rather than patents. | Aim to hand reproducible, tested work to capable manufacturers/researchers. | Original documents now use CC BY 4.0; future software/hardware licensing needs explicit scope. |
 
 ## Scope progression
 
@@ -38,3 +38,7 @@ On November 8, 2026, the user requested a skiing/snowboarding avalanche scenario
 The user requested automatic impact cushioning for horse riding, motorcycle falls, altitude falls, and potentially other rapid falls. They explicitly asked to retain altitude falls as a long-term reach rather than remove the idea because it is difficult. The [fall-impact brief](fall-impact-use-case.md) keeps that ambition while separating deceleration, impact cushioning, and activity-specific evidence.
 
 The user also described a monitor worn by the horse, connected to the rider's vest, intended to predict a spook and warn the rider, with inflation potentially assisting an emergency dismount. The [horse-warning brief](horse-warning-use-case.md) records the full intended flow. Advance prediction, the benefit of a warning, and safe dismount cushioning are unvalidated; the concept is not an instruction to jump or automatically dismount. The [catalog](use-cases.md) preserves all of these cases. No hardware or live intervention has been added.
+
+## Sharing decision and diagrams
+
+On November 8, 2026, the user accepted the recommendation to license the original documents and conceptual diagrams under [CC BY 4.0](../LICENSING.md), allowing commercial reuse with attribution. The [visual overview](overview.md) adds a use-case map and a proposed research progression. Public release is intended as early research seeking review, not a validated design release. The repository owner will make the final visibility change; this documentation update does not do so. Third-party sources are excluded from the license grant, and future software/hardware licensing remains a separate scope decision.

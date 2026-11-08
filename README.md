@@ -2,7 +2,7 @@
 
 Help save even one additional life by making useful wearable safety designs easier to understand, evaluate, and eventually reproduce.
 
-**Status — November 8, 2026:** research and human-factors drafts only. No equipment has been purchased or modified, no prototype fabricated, no participants recruited, and no experiments conducted. No safety benefit has been demonstrated. This repository is private; nothing here has been published.
+**Status — November 8, 2026:** early research, open for review and reuse under [CC BY 4.0](LICENSING.md). No equipment has been purchased or modified, no prototype fabricated, no participants recruited, and no experiments conducted. No safety benefit has been demonstrated.
 
 The first working scenario is an adult recreational boater or canoeist on a lake who unexpectedly enters the water and cannot use a phone or press a distress button. The first project is a printable preparation companion and dry comfort/usability research using existing equipment. It adds no hardware to a deployment mechanism and needs no phone in an emergency.
 
@@ -11,6 +11,8 @@ A second research scenario concerns a skier or snowboarder caught and potentiall
 Further scenarios cover impact cushioning for horse riders and motorcyclists, falls from altitude as an explicit long-term stretch goal, and a horse-worn monitor connected to the rider's vest to investigate advance warning of a spook. Emergency dismount assistance is also recorded as unvalidated research. The [use-case catalog](docs/use-cases.md) keeps these ambitions and their maturity visible.
 
 ## Read the drafts
+
+Start with the [visual overview](docs/overview.md) and [use-case catalog](docs/use-cases.md), then explore the research below. The diagrams show research questions and proposed stages, not a completed device architecture.
 
 1. [Evidence and source limitations](docs/evidence.md)
 2. [Decisions and roadmap](docs/decisions.md)
@@ -27,4 +29,8 @@ The companion is an incomplete research mock-up, not an operational checklist or
 
 ## Sharing and licensing
 
-The intended direction is to share tested, reproducible work with capable manufacturers and researchers, rather than pursue patents. No license has been selected and this initially empty repository contained none. Do not describe it as legally open-source yet. Manufacturer manuals and drawings are linked, not copied into this repository. Public release requires a separate decision.
+The original research documents, forms, and conceptual diagrams are licensed under the [Creative Commons Attribution 4.0 International license](LICENSE). Anyone may share and adapt that material, including commercially, under its terms. See [license scope and attribution](LICENSING.md) for details and third-party exclusions.
+
+The aim is to invite useful review now and eventually hand tested, reproducible work to capable manufacturers and researchers. Manufacturer manuals and drawings are linked, not copied or relicensed. Future software and engineering design files will need explicitly scoped licensing when they exist.
+
+Useful feedback includes source corrections, missing prior work, clearly described usability problems, and review of proposed requirements. Distinguish observations from hypotheses and keep personal or participant information out of submissions. The [release review](docs/release-review.md) records the current publication-preparation status; the owner controls repository visibility.

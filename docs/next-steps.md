@@ -36,4 +36,4 @@ For the [horse-to-vest warning](horse-warning-use-case.md), first establish whet
 
 ## Before public sharing or manufacturer handoff
 
-Select a license for original work, review third-party rights, and decide publication scope. Preserve manufacturer links rather than copying manuals or drawings. Document what was actually tested, failures and uncertainties, revision history, and reproducibility requirements. The repository remains private until an explicit publication decision; a local commit is not publication.
+The original documentation and diagrams now use [CC BY 4.0](../LICENSING.md). See the [visual overview](overview.md) and [release review](release-review.md) for the prepared public-facing material and outstanding owner action. Preserve manufacturer links rather than copying manuals or drawings. Public sharing should describe the current work as early research; later manufacturer handoff needs documented tests, failures, uncertainties, revision history, and reproducibility requirements. The owner controls the final visibility change.

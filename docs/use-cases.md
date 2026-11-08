@@ -1,6 +1,6 @@
 # Vest use-case catalog
 
-[Home](../README.md) · [Decisions](decisions.md) · [Next steps](next-steps.md)
+[Home](../README.md) · [Visual overview](overview.md) · [Decisions](decisions.md) · [Next steps](next-steps.md)
 
 November 8, 2026. Keep broad ideas visible while distinguishing their maturity and evidence needs. These are research scenarios, not capabilities of one existing device. No Vest safety benefit has been demonstrated.
 

@@ -82,4 +82,4 @@ Only after a justified unmet need is identified should specialists develop a man
 
 Open decisions: intended setting and companion availability; which failure of existing equipment matters most; whether the user chiefly wants burial prevention, breathing space, or assistance after incapacitation; and which specialists and manufacturers can evaluate it. A single water-and-snow vest is not assumed. Water buoyancy, marine alerting, avalanche air pockets, and burial search remain separate requirements.
 
-All cited URLs returned source material or a source landing page at review. Retrieval is not full manual verification. Licensing remains undecided; the repository stays private and no manufacturer manuals or drawings are copied here.
+All cited URLs returned source material or a source landing page at review. Retrieval is not full manual verification. Original text is covered by the repository's [CC BY 4.0 notice](../LICENSING.md); linked manufacturer manuals and drawings retain their own rights and are not copied here.
