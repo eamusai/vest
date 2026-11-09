@@ -1,10 +1,12 @@
 # Vest
 
-Help save a child's life. Vest's highest priority is exploring a wearable warning that alerts a supervising caregiver before a young child who cannot yet swim approaches a water hazard.
+Vest's goal is to help save a child's life **both before and after accidental water entry**. The intended system would warn caregivers before a child reaches water and provide child-appropriate flotation and urgent caregiver alerts if the child enters the water. These are research goals, not demonstrated capabilities. No working protective system exists yet.
+
+Child water safety is the highest priority. The first research phase focuses on approach warnings; the broader goal also includes helping keep a child afloat after entry. The warning-only scope of the current review package does not remove that in-water protection goal.
 
 **Status — November 8, 2026:** early research, open for review and reuse under [CC BY 4.0](LICENSING.md). No equipment has been purchased or modified, no prototype fabricated, no participants recruited, and no experiments conducted. No safety benefit has been demonstrated.
 
-Start with the [child water-approach warning brief](docs/child-water-proximity-use-case.md). The immediate work is defining a known water boundary, sensing uncertainty, timely caregiver alerts, and failure behavior. No working child-warning device exists. This would be an additional aid alongside close, constant supervision and barriers, not a substitute for them. [CDC prevention guidance](https://www.cdc.gov/drowning/prevention/index.html)
+Start with the [child water-safety brief](docs/child-water-proximity-use-case.md), which distinguishes the before-entry and after-entry goals. The immediate warning research is defining a known water boundary, sensing uncertainty, timely caregiver alerts, and failure behavior. Child flotation and after-entry alerts need their own requirements and validation; no flotation design or automatic inflation mechanism has been selected. The intended system would be an additional aid alongside close, constant supervision and barriers, not a substitute for them. [CDC prevention guidance](https://www.cdc.gov/drowning/prevention/index.html)
 
 The earlier adult lake-boating/canoeing scenario remains a secondary research track: a printable preparation companion and proposed dry comfort/usability study using existing equipment. It adds no hardware to a deployment mechanism and needs no phone in an emergency. Those equipment choices and that adult protocol do not transfer to children.
 
@@ -18,11 +20,11 @@ Three additional briefs explore [a child left in a hot car](docs/child-hot-car-u
 
 ## Read the drafts
 
-Start with the [highest-priority child warning case](docs/child-water-proximity-use-case.md), [visual overview](docs/overview.md), and [use-case catalog](docs/use-cases.md). The diagrams show research questions and proposed stages, not a completed device architecture. A separate [adult appearance concept](docs/appearance-concept.md) preserves the first exterior illustration; it is not a child design or CAD.
+Start with the [highest-priority child water-safety case](docs/child-water-proximity-use-case.md), [visual overview](docs/overview.md), and [use-case catalog](docs/use-cases.md). The diagrams show research questions and proposed stages, not a completed device architecture. A separate [adult appearance concept](docs/appearance-concept.md) preserves the first exterior illustration; it is not a child design or CAD.
 
-The child-warning review package now includes [proposed requirements and candidate approaches](docs/child-warning-requirements.md), [17 failure scenarios](docs/child-warning-failure-scenarios.md), [seven caregiver paper screens](docs/child-caregiver-alert-mockup.md), and a [staged evaluation plan](docs/child-warning-evaluation-plan.md). These drafts make the next review concrete; no operating thresholds, sensor architecture, or safety benefit have been validated.
+The child-warning review package now includes [proposed requirements and candidate approaches](docs/child-warning-requirements.md), [17 failure scenarios](docs/child-warning-failure-scenarios.md), [seven caregiver paper screens](docs/child-caregiver-alert-mockup.md), and a [staged evaluation plan](docs/child-warning-evaluation-plan.md). This package covers the first, before-entry warning phase; it does not specify or validate flotation or after-entry protection. No operating thresholds, sensor architecture, or safety benefit have been validated.
 
-1. [Child water-approach warning: highest priority](docs/child-water-proximity-use-case.md)
+1. [Child water safety: warnings before entry and protection after entry](docs/child-water-proximity-use-case.md)
 2. [Decisions and roadmap](docs/decisions.md)
 3. [Open questions and next steps](docs/next-steps.md)
 4. [Adult water evidence and source limitations](docs/evidence.md)

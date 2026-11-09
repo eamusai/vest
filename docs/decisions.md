@@ -6,7 +6,7 @@ Decision record — November 8, 2026. These choices come from the project conver
 
 | Decision | Reason | Revisit when |
 | --- | --- | --- |
-| **Prioritize child water-approach warning above all other cases.** | The user explicitly made helping save a young child's life the central aim. | Evidence or an explicit priority change warrants a different next step. |
+| **Prioritize child water safety before and after entry; start with approach-warning research.** | The user made helping save a young child's life the central aim and clarified that intended protection also includes flotation and urgent alerts after entry. | Evidence or an explicit priority change warrants a different next step. |
 | Start the child track with requirements, failure scenarios, and a paper caregiver-alert concept. | No warning system or demonstrated benefit exists; location, boundary, delivery, and response must all be evaluated. | Reviewed requirements support separately authorized dry feasibility work. |
 | Keep the adult comfort, fit, readiness, and hands-free-alerting work as a secondary track. | Existing research and the paper companion remain useful without transferring adult assumptions to children. | A specific adult problem warrants further work alongside the priority track. |
 | Retain inflatable concepts for adult research without prescribing them for children. | The original preference concerned adult comfort; pediatric eligibility and design require separate evidence. | Activity, fit, or equipment requirements favor another design. |
@@ -77,3 +77,9 @@ The [child hot-car brief](child-hot-car-use-case.md) and [dog hot-car brief](dog
 The [horse calming brief](horse-calming-use-case.md) distinguishes intervention on the horse from the existing rider-warning case. Acoustic, tactile, and handler-mediated options remain hypotheses. Passive observation precedes any separately reviewed intervention; neither sensor changes nor apparent quietness alone establish welfare benefit. No mounted intervention, induced spook, automatic airbag trigger, or claim of preventing bucking is approved.
 
 Child water-approach warning remains the highest priority. These additions expand the catalog without selecting a universal garment or authorizing purchases, expert outreach, recruitment, experiments, or emergency calls. Repository visibility was checked and is now public; this update changes documentation, not access settings.
+
+## Clarification: protection after a child enters the water
+
+On November 8, 2026, the user reported reader confusion about whether the intended vest would help after a child enters the water. They approved explicitly stating both parts of the child-safety goal: advance caregiver warning and child-appropriate flotation with urgent caregiver alerts after accidental entry. Earlier wording described the first warning-research phase too narrowly to make the full intended benefit clear.
+
+The README, child brief, catalog, overview, and next steps now distinguish the full goal from the initial review package. Excluding automatic inflation from that package does not remove after-entry protection from the research ambition. The existing 16 requirements, 17 scenarios, and seven paper screens still address before-entry warnings only. Child flotation and after-entry alerting require separate requirements, pediatric suitability review, and validation. No design, automatic trigger, field trial, demonstrated lifesaving result, or guarantee of rescue is established by this wording change.

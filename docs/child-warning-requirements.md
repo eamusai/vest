@@ -14,6 +14,8 @@ The model assumes a known hazard region, a defined area in which location estima
 
 Initial scope includes one or more synthetic wearable identities and one or more caregiver receivers. It excludes automatic inflation, propulsion, contaminant clearance, drowning diagnosis, automated emergency-service calls, and advice that a child may enter water. No age, body-size range, garment, phone platform, or radio technology has been selected.
 
+These exclusions define this **first warning-research phase**, not the complete product goal. The [child water-safety brief](child-water-proximity-use-case.md) also records intended child-appropriate flotation and urgent caregiver alerts after accidental entry. Those functions require a separate child-specific requirements and validation effort; the 16 requirements below do not establish in-water protection.
+
 ## Functional chain and terms
 
 The proposed chain is **hazard definition → wearable position and uncertainty → approach assessment → receiver presentation → caregiver response**. Each link can fail independently.

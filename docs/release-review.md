@@ -8,10 +8,10 @@ Review date: November 8, 2026. Prepared for sharing the current research documen
 
 - Original research documents, reusable forms, and conceptual diagrams have an explicit CC BY 4.0 license. Linked third-party sources retain their rights.
 - The README identifies early research, no fabricated prototype, no completed experiments, and no demonstrated safety benefit.
-- A use-case diagram and proposed research-stage diagram include text explanations and put child water-approach warning first. The adult study remains a secondary track.
+- A use-case diagram and proposed research-stage diagram include text explanations and put child water safety first. The full intended goal includes warnings before entry and child-appropriate flotation with urgent alerts after entry. Approach warnings remain the first research phase; the adult study remains secondary.
 - The child-warning, water-quality, adult water, avalanche, impact, altitude, and horse-warning ideas retain their evidence limitations. Manual/source gaps remain visible; no document claims that a prototype makes a family lake visit safe.
 - Three additional briefs cover child hot-car alerts, dog hot-car alerts, and horse-worn stress monitoring with calming interventions. They preserve the user's intended outcomes while distinguishing detection, delivered alerts, actual emergency response, and intervention benefit. No thresholds, responder integration, or effective calming device are established. Child water-approach warning remains first.
-- The child-warning review package contains proposed requirements, failure scenarios, paper screens, and an evaluation plan. Numerical performance limits and expert review remain open. The static print-ready screens contain no scripts or connected monitoring.
+- The child-warning review package contains proposed requirements, failure scenarios, paper screens, and an evaluation plan for before-entry warnings only. It does not establish flotation or after-entry protection. Numerical performance limits and expert review remain open. The static print-ready screens contain no scripts or connected monitoring.
 - A labeled AI-generated adult appearance illustration and its prompt preserve the earlier exterior concept. Its provenance and license scope are explicit; it is not CAD or a child garment.
 - The repository contains research Markdown, static paper-interface HTML/CSS, an appearance image, its prompt, and a license, not copied manufacturer manuals, drawings, participant records, or a deployable safety device.
 

@@ -9,7 +9,9 @@ November 8, 2026. These diagrams organize research, not the components of a test
 ```mermaid
 flowchart LR
     V["Vest research"]
-    V --> C["Child water-approach warning<br/>HIGHEST PRIORITY"]
+    V --> C["Child water safety<br/>HIGHEST PRIORITY"]
+    C --> CB["Before entry: caregiver warnings<br/>First research phase"]
+    C --> CA["After entry: flotation and alerts<br/>Intended, unvalidated protection"]
     V --> K["Hot-car detection and alerts<br/>Emergency-response research"]
     K --> KC["Child case<br/>Pediatric requirements"]
     K --> KD["Dog case<br/>Separate canine requirements"]
@@ -26,11 +28,11 @@ flowchart LR
     I -.-> D
     classDef current fill:#e8f1fa,stroke:#285d85,color:#172e40;
     classDef stretch fill:#fff3df,stroke:#8a641e,color:#49340f;
-    class C current;
+    class C,CB current;
     class F,D stretch;
 ```
 
-The highest priority is [child water-approach warning](child-water-proximity-use-case.md): investigate a timely caregiver alert before a young child reaches a water hazard. Its requirements and feasibility work take precedence. The earlier adult [water preparation companion](prototype.md) and proposed dry study remain secondary. Other branches are [avalanche research](avalanche-use-case.md), [impact protection](fall-impact-use-case.md), and [horse-to-vest warning](horse-warning-use-case.md). Falls from altitude remain an explicit long-term goal. The dashed connections indicate that emergency dismount assistance depends on both warning/response research and impact research; they do not imply that a warning makes jumping safe.
+The highest priority is [child water safety before and after entry](child-water-proximity-use-case.md): warn a caregiver before a child reaches water, and investigate child-appropriate flotation and urgent alerts if entry occurs. Approach-warning requirements remain the first research phase. After-entry protection is part of the intended system but needs separate requirements and validation; neither function has a demonstrated safety benefit. The earlier adult [water preparation companion](prototype.md) and proposed dry study remain secondary. Other branches are [avalanche research](avalanche-use-case.md), [impact protection](fall-impact-use-case.md), and [horse-to-vest warning](horse-warning-use-case.md). Falls from altitude remain an explicit long-term goal. The dashed connections indicate that emergency dismount assistance depends on both warning/response research and impact research; they do not imply that a warning makes jumping safe.
 
 The catalog also retains [harmful-water sensing](water-quality-use-case.md) and other rapid falls for later definition. Water-quality warnings are separate from child approach warnings; no wearable contaminant detector is established. None of these branches establishes a universal vest, common trigger, or shared safety certification.
 
@@ -42,7 +44,7 @@ The separate [adult appearance concept](appearance-concept.md) explores an exter
 
 ```mermaid
 flowchart TD
-    C["Current: research documents<br/>Child warning is the priority"]
+    C["Current: research documents<br/>Child warning is the first phase"]
     C --> Q["Next: review child requirements<br/>and resolve open decisions"]
     Q --> U["Proposed: synthetic paths<br/>and dry surrogate studies"]
     U --> G{"Evidence supports<br/>further investigation?"}

@@ -1,12 +1,17 @@
-# Child water-approach warning — highest priority
+# Child water safety before and after entry — highest priority
 
 [Home](../README.md) · [Use-case catalog](use-cases.md) · [Roadmap](decisions.md) · [Next steps](next-steps.md)
 
-Research brief, version 0.1 — November 8, 2026. This is the project's highest-priority use case. No child-worn device, working alert system, field trial, or demonstrated protective benefit exists.
+Research brief, version 0.2 — November 8, 2026. Clarified to include protection after water entry alongside approach warnings. This is the project's highest-priority use case. No child-worn device, working alert system, field trial, or demonstrated protective benefit exists.
 
 ## Purpose
 
-The central aim is to help save a child's life by warning a supervising parent or caregiver **before a young child who cannot yet swim reaches water they should not approach**. The proposed wearable, potentially integrated with a vest, estimates approach to a defined water hazard and sends a timely caregiver alert. The parent wants advance warning, rather than waiting for immersion.
+The central aim is to help save a child's life **both before and after accidental water entry**. The intended system has two functions:
+
+- **Before entry:** warn a supervising parent or caregiver before a young child who cannot yet swim reaches water they should not approach.
+- **After entry:** provide child-appropriate flotation to help keep the child afloat and send urgent caregiver alerts to support a prompt response.
+
+These are intended benefits, not demonstrated capabilities or a guarantee of rescue. The first research phase estimates approach to a defined water hazard and explores timely caregiver warnings. That narrower starting scope does not remove flotation and after-entry alerts from the broader goal.
 
 The priority is the child-protection problem, not a particular garment, sensor, or inflation mechanism. The earlier adult boating study remains a secondary track. Adult equipment choices and the adult appearance illustration do not establish suitability for children.
 
@@ -14,7 +19,15 @@ The separate [harmful-water sensing idea](water-quality-use-case.md) would addre
 
 An alert would be an additional aid. It cannot replace close, constant supervision, barriers that restrict access, or appropriate existing water-safety measures. CDC emphasizes supervision and pool fencing; no evidence reviewed here establishes that this concept prevents drowning. [CDC prevention guidance](https://www.cdc.gov/drowning/prevention/index.html)
 
-## Intended flow
+## Protection if water entry occurs
+
+The intended product should still help when a child enters the water despite prevention measures or a missed approach warning. Flotation and urgent caregiver notification are separate functions: an alert is not buoyancy, and a delivered message is not a completed rescue. After-entry protection must be investigated in its own right rather than assumed to follow from successful approach detection.
+
+This goal needs a separate child-specific requirements and evidence package covering fit and retention, buoyancy and body orientation, airway support, water-entry detection, alert delivery, and failure behavior. No flotation architecture, inflation trigger, age/size eligibility, or protective performance is selected or validated. Automatic inflation, if pursued, needs separate pediatric suitability and failure analysis; the adult equipment and illustration do not establish it.
+
+The existing 16 requirements, 17 failure scenarios, seven paper screens, and dry evaluation plan address **before-entry warnings only**. They neither validate in-water protection nor authorize child water-entry tests. The next step for after-entry protection is specialist requirements review and a separately reviewed bench/mannequin evaluation proposal.
+
+## Intended flow for the first warning phase
 
 1. A caregiver identifies the hazard and a proposed warning boundary, with a separate confirmation of which child and receiving device are paired.
 2. The wearable system estimates the child's position relative to that boundary, including uncertainty and the age of its information.
@@ -22,7 +35,7 @@ An alert would be an additional aid. It cannot replace close, constant supervisi
 4. The alert identifies which paired wearable needs attention. Delivery and acknowledgment are recorded separately; acknowledgment does not prove that the child is safe.
 5. Lost position, stale data, a removed wearable, low power, or a failed connection must have explicit unavailable/fault behavior rather than silent reassurance. Whether each fault can be detected is itself a requirement to evaluate.
 
-No warning distance, response-time guarantee, operating range, battery target, or automatic inflation rule has been selected. Absence of an alert must never be presented as proof that a child is away from water. This concept is a warning system, not a physical access barrier.
+No warning distance, response-time guarantee, operating range, battery target, or automatic inflation rule has been selected. Absence of an alert must never be presented as proof that a child is away from water. This first-phase concept is a warning system, not a physical access barrier or the complete intended protective vest.
 
 ## What "near water" requires
 
@@ -47,7 +60,7 @@ These primary sources were opened on November 8, 2026. They support requirements
 - **Caregiver responsibility:** clarify pairing and handoff between adults, and which receiver is actively responsible. Avoid an interface that encourages caregivers to step away because monitoring appears active.
 - **Privacy:** use secure, explicit caregiver pairing; minimize location storage and retention; avoid public child-location feeds. No child identities, household locations, or family movement records belong in this public research repository.
 
-## Review package and evaluation path
+## Warning-phase review package and evaluation path
 
 The first review package is drafted:
 
