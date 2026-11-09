@@ -1,8 +1,12 @@
 # Vest
 
-Vest's goal is to help save a child's life **both before and after accidental water entry**. The intended system would warn caregivers before a child reaches water and provide child-appropriate flotation and urgent caregiver alerts if the child enters the water. These are research goals, not demonstrated capabilities. No working protective system exists yet.
+Vest is an open research project exploring **wearable safety for children, adults, and animals across many settings**: water safety, hot-car emergencies, avalanches, fall protection, harmful-water alerts, and horse monitoring and calming. **Child water safety is the highest priority within this broader set of applications.**
 
-Child water safety is the highest priority. The first research phase focuses on approach warnings; the broader goal also includes helping keep a child afloat after entry. The warning-only scope of the current review package does not remove that in-water protection goal.
+Explore the [full use-case catalog](docs/use-cases.md) and [visual overview](docs/overview.md). These are proposed applications with separate evidence and design needs, not proven capabilities of a single universal vest.
+
+For child water safety, the goal is to help save a child's life **both before and after accidental water entry**. The intended system would warn caregivers before a child reaches water and provide child-appropriate flotation and urgent caregiver alerts if the child enters the water. These are research goals, not demonstrated capabilities. No working protective system exists yet.
+
+The first research phase focuses on approach warnings; the broader child-safety goal also includes helping keep a child afloat after entry. The warning-only scope of the current review package does not remove that in-water protection goal.
 
 **Status — November 8, 2026:** early research, open for review and reuse under [CC BY 4.0](LICENSING.md). No equipment has been purchased or modified, no prototype fabricated, no participants recruited, and no experiments conducted. No safety benefit has been demonstrated.
 
