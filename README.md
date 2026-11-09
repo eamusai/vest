@@ -1,6 +1,6 @@
 # Vest
 
-Vest is an open research project exploring **wearable safety for children, adults, and animals across many settings**: water safety, hot-car emergencies, avalanches, fall protection, harmful-water alerts, and horse monitoring and calming. **Child water safety is the highest priority within this broader set of applications.**
+Vest is an open research project exploring **wearable safety for children, adults, and animals across many settings**: water safety, hot-car emergencies, avalanches, fall protection, obstacle navigation, harmful-water alerts, and horse monitoring and calming. **Child water safety is the highest priority within this broader set of applications.**
 
 Explore the [full use-case catalog](docs/use-cases.md) and [visual overview](docs/overview.md). These are proposed applications with separate evidence and design needs, not proven capabilities of a single universal vest.
 
@@ -21,6 +21,8 @@ Further scenarios cover impact cushioning for horse riders and motorcyclists, fa
 [Harmful-water sensing](docs/water-quality-use-case.md) is another research ambition: identify specified bacteria, toxins, or contaminants and warn a wearer or caregiver. Immediate, broad detection by a vest is not established; general water measurements cannot certify water as safe. This does not change the child-approach priority.
 
 Three additional briefs explore [a child left in a hot car](docs/child-hot-car-use-case.md), [a dog left in a hot car](docs/dog-hot-car-use-case.md), and [horse-worn stress monitoring with calming interventions](docs/horse-calming-use-case.md). The hot-car cases retain emergency-service alerts as a goal, with separate sensing and response requirements for children and dogs. The horse case asks whether a suitable cue can reduce stress without adding risk; preventing spooks, bucking, or rider injury is unproven. None changes the child water-approach priority or establishes a working protective system.
+
+[Obstacle sensing and navigation assistance](docs/obstacle-navigation-use-case.md) is an open application for blind and low-vision people: sensors would detect nearby obstacles and convey information through the vest, potentially with directional touch cues. Running through a forest at night is retained as a long-term research ambition, not an established capability. The hummingbird inspiration remains an unresolved research idea.
 
 ## Read the drafts
 
@@ -43,6 +45,7 @@ The child-warning review package now includes [proposed requirements and candida
 13. [Child hot-car detection and emergency alerts](docs/child-hot-car-use-case.md)
 14. [Dog hot-car detection and emergency alerts](docs/dog-hot-car-use-case.md)
 15. [Horse-worn stress monitoring and calming research](docs/horse-calming-use-case.md)
+16. [Obstacle sensing and navigation assistance for blind and low-vision people](docs/obstacle-navigation-use-case.md)
 
 The companion is an incomplete research mock-up, not an operational checklist or certification of readiness. Exact manufacturer requirements must be mapped and reviewed before participant testing. Follow the current instructions for the actual equipment; these drafts do not replace them.
 
