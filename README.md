@@ -22,7 +22,7 @@ Further scenarios cover impact cushioning for horse riders and motorcyclists, fa
 
 Three additional briefs explore [a child left in a hot car](docs/child-hot-car-use-case.md), [a dog left in a hot car](docs/dog-hot-car-use-case.md), and [horse-worn stress monitoring with calming interventions](docs/horse-calming-use-case.md). The hot-car cases retain emergency-service alerts as a goal, with separate sensing and response requirements for children and dogs. The horse case asks whether a suitable cue can reduce stress without adding risk; preventing spooks, bucking, or rider injury is unproven. None changes the child water-approach priority or establishes a working protective system.
 
-[Obstacle sensing and navigation assistance](docs/obstacle-navigation-use-case.md) is an open application for blind and low-vision people: sensors would detect nearby obstacles and convey information through the vest, potentially with directional touch cues. Running through a forest at night is retained as a long-term research ambition, not an established capability. The hummingbird inspiration remains an unresolved research idea.
+[Obstacle sensing and navigation assistance](docs/obstacle-navigation-use-case.md) is an open application for blind and low-vision people: sensors would detect nearby obstacles and convey information through the vest, potentially with directional touch cues. Running through a forest at night is retained as a long-term research ambition, not an established capability. The brief now cites hummingbird wing-sensation research and a hummingbird-inspired sensing robot, distinguishing their demonstrated results from the open question of applying them to Vest.
 
 ## Read the drafts
 
