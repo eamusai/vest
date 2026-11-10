@@ -4,6 +4,8 @@ Vest is an open research project exploring **wearable safety for children, adult
 
 Explore the [full use-case catalog](docs/use-cases.md) and [visual overview](docs/overview.md). These are proposed applications with separate evidence and design needs, not proven capabilities of a single universal vest.
 
+Related research also extends beyond a wearable: [vehicle-integrated tactile awareness](docs/vehicle-tactile-awareness-use-case.md) explores sensing surrounding traffic and conveying it through a driver's or pilot's seat, with separate automotive and aviation questions.
+
 For child water safety, the goal is to help save a child's life **both before and after accidental water entry**. The intended system would warn caregivers before a child reaches water and provide child-appropriate flotation and urgent caregiver alerts if the child enters the water. These are research goals, not demonstrated capabilities. No working protective system exists yet.
 
 The first research phase focuses on approach warnings; the broader child-safety goal also includes helping keep a child afloat after entry. The warning-only scope of the current review package does not remove that in-water protection goal.
@@ -46,6 +48,7 @@ The child-warning review package now includes [proposed requirements and candida
 14. [Dog hot-car detection and emergency alerts](docs/dog-hot-car-use-case.md)
 15. [Horse-worn stress monitoring and calming research](docs/horse-calming-use-case.md)
 16. [Obstacle sensing and navigation assistance for blind and low-vision people](docs/obstacle-navigation-use-case.md)
+17. [Vehicle-integrated tactile awareness for drivers and pilots](docs/vehicle-tactile-awareness-use-case.md)
 
 The companion is an incomplete research mock-up, not an operational checklist or certification of readiness. Exact manufacturer requirements must be mapped and reviewed before participant testing. Follow the current instructions for the actual equipment; these drafts do not replace them.
 

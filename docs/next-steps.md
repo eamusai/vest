@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Evidence](evidence.md) · [Roadmap](decisions.md)
 
-November 8, 2026. None of the proposed study work has been executed.
+Updated November 9, 2026. None of the proposed study work has been executed.
 
 ## Highest priority: child water safety before and after entry
 
@@ -63,6 +63,10 @@ Prepare a passive observational proposal and bench-test output limits, independe
 ## Harmful-water sensing track
 
 Use the [water-quality brief](water-quality-use-case.md) to select one initial hazard and setting with relevant specialists. Compare direct sensing, proxy measurements, and official advisories without treating them as equivalent. Establish detection delay, validity, reference methods, and false-negative risks before hardware selection. Begin with published data and paper alerts; no contaminated-water exposure or swimming trial is proposed. This track does not displace the child-approach priority.
+
+## Vehicle tactile awareness research
+
+Use the [vehicle-integrated tactile awareness brief](vehicle-tactile-awareness-use-case.md) to separate automotive and aviation scenarios. Compare selective seat warnings with richer surrounding-traffic cues, defining their meaning before choosing sensors or actuators. Begin with synthetic or recorded scenarios and an inert seat demonstration; separately reviewed simulator studies could examine interpretation, workload, multiple hazards, sensing failures, and conflict with existing alerts. The hummingbird work provides inspiration, not evidence of vehicle traffic detection. Automatic vehicle control is outside this application, and child water safety retains priority.
 
 ## Public sharing and manufacturer handoff
 

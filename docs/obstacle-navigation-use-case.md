@@ -12,6 +12,8 @@ The user's long-term ambition is to make movement through complex environments p
 
 Hummingbird agility and wing sensation inspired the idea. Published sensory and robotics research now provides a concrete basis for that inspiration. Translating it into useful obstacle information for a person wearing a vest remains an open engineering and human-factors question.
 
+A related [vehicle-integrated tactile awareness concept](vehicle-tactile-awareness-use-case.md) explores sensing surrounding traffic and delivering touch cues through a driver's or pilot's seat. It carries the inspiration beyond a wearable, with separate automotive and aviation evidence needs.
+
 ## Hummingbird inspiration: evidence and limits
 
 | Paper | What the researchers demonstrated | Limit for Vest |
